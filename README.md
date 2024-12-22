@@ -1,6 +1,6 @@
 # USBRelay
 
-The Relay is controlled via HID USB base on CH32V003J6m6
+The Relay is controlled via HID USB base on CH32V003J4M6
 
 
 # Schematic
