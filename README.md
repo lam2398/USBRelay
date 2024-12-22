@@ -1,6 +1,6 @@
 # USBRelay
 
-The Relay is controlled via HID USB base on CH32V003J4M6
+The Relay is controlled via HID USB base on CH32V003J4M6 (a 10 cent microcontroller)
 
 
 # Schematic
@@ -30,3 +30,7 @@ WINDOWS: https://sourceforge.net/projects/usb-relay-hid/
 It is fully compatible with USB Relays based on AVR microcontrollers.
 
 ![image](https://github.com/user-attachments/assets/24f24785-9c8d-4bb3-bd68-5d1e0b38ac9b)
+
+For USB Relay based on ARR microcontrollers: Refer to:
+
+https://github.com/thmahe/usbrelay-firmware or https://github.com/u1f35c/usb-relay-firmware/blob/main/README.md
