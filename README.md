@@ -21,11 +21,9 @@ https://github.com/darrylb123/usbrelay
 or:
 https://github.com/pavel-a/usb-relay-hid/tree/master
 
-- Python:
-- https://pypi.org/project/pyhid-usb-relay/
+- Python: https://pypi.org/project/pyhid-usb-relay/
 
-WINDOWS:
-https://sourceforge.net/projects/usb-relay-hid/
+WINDOWS: https://sourceforge.net/projects/usb-relay-hid/
 
 # Fearure:
 
