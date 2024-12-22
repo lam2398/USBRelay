@@ -5,14 +5,20 @@ The Relay is controlled via HID USB base on CH32V003J4M6
 
 # Schematic
 
-![image](https://github.com/user-attachments/assets/e3cd0149-fd0b-4185-addf-62eb12424246)
+![image](https://github.com/user-attachments/assets/3f61f56b-3642-4aed-b415-826c3d5d521e)
+
 
 # PCB
 
-![image](https://github.com/user-attachments/assets/9c84b95f-1eb5-4384-b220-fc24bd78d60e)
+![image](https://github.com/user-attachments/assets/5fa71f11-6661-4e53-aa1a-0f894b8cdaa1)
 
 
-![image](https://github.com/user-attachments/assets/629b5a90-c812-46fe-a0e8-d02d43d6648a)
+
+![image](https://github.com/user-attachments/assets/f1bd81e1-f122-47a4-ae52-ba1edaa90e53)
+
+
+
+![image](https://github.com/user-attachments/assets/cd69e817-2620-4268-a420-372db4bbda6e)
 
 # Control app:
 LINUX:
