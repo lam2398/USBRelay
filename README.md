@@ -1,6 +1,7 @@
 # USBRelay
 
-The Relay is controlled via HID USB base on CH32V003J4M6 (a 10 cent microcontroller)
+The Relay is controlled via HID USB used CH32V003J4M6 microcontroller, 
+based on https://github.com/cnlohr/ch32v003fun
 
 
 # Schematic
